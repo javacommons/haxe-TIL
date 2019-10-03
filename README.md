@@ -42,3 +42,9 @@ gen
 > (x 300)
 500
 ```
+
+* https://lib.haxe.org/p/hxp/1.1.4/
+* https://github.com/openfl/hxp
+
+Write scripts in Haxe, and execute them on Windows, macOS or Linux.
+
