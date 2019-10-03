@@ -2,11 +2,4 @@
 
 ![](https://1drv.ms/u/s!AsCzzVq4f4K52XooHG-wHQb0gtM5)
 
-<div>
-  <iframe src="https://1drv.ms/u/s!AsCzzVq4f4K52XooHG-wHQb0gtM5" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<p>Below will render an iframe</p>
-<div class="iframe-container">
-<iframe frameborder="0" src="https://www.youtube.com/embed/qkcx0kf6jME"></iframe>
-</div>
+![](https://camo.githubusercontent.com/c466bcf0969913ef5487422d93ca4427b4c451ce/68747470733a2f2f692e696d6775722e636f6d2f54716e34324c422e706e67)
