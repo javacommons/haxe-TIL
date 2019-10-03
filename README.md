@@ -51,3 +51,5 @@ Write scripts in Haxe, and execute them on Windows, macOS or Linux.
 
 * https://haxe.org/blog/eval/ (Eval - The new Haxe macro interpreter - Haxe - The Cross-platform Toolkit)
 
+* http://trackiss.hateblo.jp/entry/030/haxe_love (（個人的）最強のプログラミング言語「Haxe」)
+
