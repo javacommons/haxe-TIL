@@ -49,3 +49,5 @@ gen
 
 Write scripts in Haxe, and execute them on Windows, macOS or Linux.
 
+* https://haxe.org/blog/eval/ (Eval - The new Haxe macro interpreter - Haxe - The Cross-platform Toolkit)
+
