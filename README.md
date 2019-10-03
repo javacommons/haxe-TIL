@@ -45,6 +45,7 @@ gen
 
 * https://lib.haxe.org/p/hxp/1.1.4/
 * https://github.com/openfl/hxp
+* https://lime.software/docs/project-files/hxp-format/
 
 Write scripts in Haxe, and execute them on Windows, macOS or Linux.
 
